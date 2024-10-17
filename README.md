@@ -1,5 +1,7 @@
 // Đảm bảo rằng canvas đã tồn tại trong DOM
+
 document.addEventListener('DOMContentLoaded', function() {
+
     // Lấy tham chiếu đến thẻ canvas
     const canvas = document.getElementById('canvasHolder');
     
